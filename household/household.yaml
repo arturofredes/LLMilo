@@ -1,0 +1,24 @@
+household:
+  name: Casa Verde
+  elements:
+    - name: kitchen
+      chores:
+        - name: wash dishes
+          frequency: daily
+          due_time: "22:00"
+          description: clean all dishes
+        - name: clean counter
+          frequency: daily
+          due_time: "22:00"
+    - name: bathroom
+      chores:
+        - name: mop floor
+          frequency: weekly
+        - name: clean toilet
+          frequency: biweekly
+    - name: living room
+      chores:
+        - name: vacuum
+          frequency: weekly
+        - name: dust shelves
+          frequency: monthly

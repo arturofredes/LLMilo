@@ -1,0 +1,7 @@
+household: Casa Verde
+people:
+  - name: Arturo
+    telegram_id: "123456789"
+  - name: Maria
+  - name: Carlos
+    telegram_id: "987654321"
